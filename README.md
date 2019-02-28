@@ -1,8 +1,6 @@
 # code_technocrats-iot-
 
-##live link
 
-#https://harshininadella.github.io/code_technocrats-iot-/
 int motorPin1=7;
  int motorPin2=8;
 
